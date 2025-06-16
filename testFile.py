@@ -1,7 +1,4 @@
 
 
-print("Hello world, again")
-
-print("Warning!!")
-
-print("Changes has been made")
+for i in range(100):
+    print(i)
